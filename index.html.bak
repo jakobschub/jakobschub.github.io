@@ -72,7 +72,7 @@
                   <h2>What is appadvisor?</h2>
                 </header>
                 <p>This is <strong>AppAdvisor</strong>, a site for anyone
-                  interested in reading reviews and recieving insightful and
+                  interested in reading reviews and receiving insightful and
                   exclusive recommendations on applications. Me (the creator)
                   and my handful of colleagues work hard to catch the latest
                   trends, evaluate apps and produce great reviews for you. </p>
@@ -86,8 +86,8 @@
                   very excited to share it. If you have any questions or
                   opinions, you can easily reach us through our <a target="_blank"
                     href="https://www.facebook.com/appadvisor.nl/">Facebook</a>
-                  or by	sending us an <a href="mailto:this_adress_is_not_valid@example.com?Subject=Hey%20there!" 
-               		target="_top">email</a>!</p> 
+                  or by sending us an <a href="mailto:this_adress_is_not_valid@example.com?Subject=Hey%20there%21"
+                    target="_top">email</a>!</p>
                 <a target="_blank" href="https://www.facebook.com/appadvisor.nl/"
                   class="button">Give
                   our facebook a like!</a> </section>
@@ -124,20 +124,16 @@
             <div class="3u">
               <section id="box1">
                 <header>
-                  <h2>Nulla facilisi</h2>
+                  <h2>Keep updated</h2>
                 </header>
                 <ul class="style3">
                   <li class="first">
-                    <p class="date"><a href="#">10.03.2012</a></p>
-                    <p><a href="#">Vestibulum sem magna, elementum ut,
-                        vestibulum facilisis. Nulla facilisi. Cum sociis natoque
-                        penatibus.</a></p>
-                  </li>
-                  <li>
-                    <p class="date"><a href="#">10.03.2012</a></p>
-                    <p><a href="#">Pellentesque erat erat, tincidunt in,
-                        eleifend, malesuada bibendum. Suspendisse sit amet in
-                        eros bibendum condimentum. </a> </p>
+                    <p class="date"><a href="mailto:this_adress_is_not_valid@example.com?Subject=Newsletter"
+                        target="_top">NEWSLETTER</a></p>
+                    <p><a>Don't miss our updates and reviews! Click the
+                        newsletter button and drop us an email, and we'll add
+                        you to our newsletter subscription and make sure you
+                        never miss out on any content! </a></p>
                   </li>
                 </ul>
               </section>
@@ -147,7 +143,7 @@
                 <header>
                   <h2>Who Am I?</h2>
                 </header>
-                <div> <a href="#" class="image full"><img src="images/pics02.jpg"
+                <div> <a class="image full"><img src="images/pics02.jpg"
                       alt=""></a>
                 </div>
                 <p>So who is this brilliant mastermind behind the idea and
@@ -189,9 +185,8 @@
       </div>
       <!-- Copyright -->
       <div id="copyright">
-        <div class="container"> Design: <a href="http://templated.co">TEMPLATED</a>
-          Images: <a href="http://unsplash.com">Unsplash</a> (<a href="http://unsplash.com/cc0">CC0</a>)
-        </div>
+        <div class="container"> Design: <a href="https://templated.co/synchronous">TEMPLATED</a>
+          Images: Jakob Schub </div>
       </div>
     </div>
   </body>
