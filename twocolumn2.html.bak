@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<!--
+	Synchronous by TEMPLATED    templated.co @templatedco
+    Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)-->
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>AppAdvisor - Reviews</title>
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <link href="http://fonts.googleapis.com/css?family=Lato:300,400,700,900" rel="stylesheet"
+      type="text/css">
+    <!--[if lte IE 8]><script src="js/html5shiv.js"></script><![endif]-->
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="js/skel.min.js"></script>
+    <script src="js/skel-panels.min.js"></script>
+    <script src="js/init.js"></script> <noscript>
+			<link rel="stylesheet" href="css/skel-noscript.css">
+			<link rel="stylesheet" href="css/style.css">
+		</noscript>
+    <!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
+    <!--[if lte IE 9]><link rel="stylesheet" href="css/ie/v9.css" /><![endif]-->
+  </head>
+  <body>
+    <div id="wrapper">
+      <!-- Header -->
+      <div id="header">
+        <div class="container">
+          <!-- Logo -->
+          <div id="logo">
+            <h1><a href="#">Appadvisor</a></h1>
+            <span>Expert reviews</span> </div>
+          <!-- Nav -->
+          <nav id="nav">
+            <ul>
+              <li><a href="index.html">Homepage</a></li>
+              <li class="active"><a href="twocolumn2.html">Reviews</a></li>
+              <li><br>
+              </li>
+            </ul>
+          </nav>
+        </div>
+      </div>
+      <!-- /Header -->
+      <div id="page">
+        <div class="container">
+          <div class="row">
+            <div class="9u skel-cell-important">
+              <section id="content">
+                <header>
+                  <h2>app review - Starhub happy prepaid</h2>
+                </header>
+                <p> For my first review I have chosen to examine <a target="_blank"
+                    href="http://www.starhub.com/personal.html">Starhub</a>
+                  and their mobile application <a target="_blank" href="https://itunes.apple.com/sg/app/happy-prepaid/id981031677">Happy
+                    Prepaid</a>. The app is for anyone with a Starhub prepaid
+                  account and it enables you to manage your subscription.
+                  Through the Happy Prepaid app you can view your credit and
+                  data balance, set up phone for roaming, add different types of
+                  plans and scroll through different promotions. I personally
+                  use this app frequently and from a utility perspective I think
+                  the app relieves a lot of everyday pains. The features I use
+                  the most is checking my data balance, topping up my credit
+                  balance and buying new data plans. The Happy Prepaid app meets
+                  my demands and it has the functions most people use and need.
+                  Information-wise the app does it's job. However, I have a few
+                  concerns regarding the interface and responsiveness of the
+                  app. More on that later. </p>
+                <img src="file:///Users/schub/Documents/IT1001/Individual/webpage/template/images/example1.jpg"
+                  alt="">&nbsp;
+                <img src="file:///Users/schub/Documents/IT1001/Individual/webpage/template/images/example2.jpg"
+                  alt=""
+                  style="margin-left: 30px;"><img
+                  src="file:///Users/schub/Documents/IT1001/Individual/webpage/template/images/example3.jpg"
+                  alt=""
+                  style="margin-left: 35px;">
+                <p> </p>
+                <p> The pictures above are screenshots from my most frequently
+                  used features of the app. The homepage, data purchase site and
+                  the credit top up site. To reach the main menu, you press the
+                  lines in the upper right corner and a list of every available
+                  feature shows up. In the bottom of the page you have shortcuts
+                  for easier access. What I like about the interface is it's
+                  user friendliness and it's ease of use. Unfortunately, that's
+                  about it. Even though the app is regularly updated (every
+                  month or two) it's obvious that design is not Starhub's main
+                  concern. The user interface reminds me of an app from a
+                  different era. It reminds me of apps I used to have on my
+                  iPhone 3GS, and anyone who is fairly known with iPhone's know
+                  that that was a long time ago. I can't understand why the
+                  display size of the app is fixed to a small screen, instead of
+                  dynamically adjusted to the actual screen size. As you can see
+                  in the example pictures above, a lot of space is just blacked
+                  out because of this. It's not something you usually see in
+                  today's apps, and especially not in well-known and widespread
+                  apps like Happy Prepaid. This together with the lack of
+                  responsiveness brings down my overall impression of the app. </p>
+                <p>All in all, Starhub's Happy Prepaid app is OK. It has all the
+                  functionalities I could think of using and it's easy to use.
+                  Downside of it is however obvious, it needs some
+                  reconstruction and a serious interface update in order to keep
+                  up with today's customer expectations. </p>
+                <p> </p>
+                <p style="text-align: center;"><strong>Review by Jakob Schub</strong></p>
+                <div style="text-align: center;"> <strong>27th of March 2018</strong>
+                </div>
+               
+                <p></p>
+              </section>
+            </div>
+            <div class="3u">
+              <section id="sidebard2">
+                <header>
+                  <h2>KEYPOINTS</h2>
+                </header>
+                <ul class="style1">
+                  <li class="first"><span class="fa fa-plus"></span><a href="#">User
+                      friendly</a></li>
+                  <li><span class="fa fa-plus"></span><a href="#">Covers the
+                      features you need</a></li>
+                  <li><span class="fa fa-minus"></span><a href="#">Bad
+                      responsiveness</a></li>
+                  <li><span class="fa fa-minus"></span><a href="#">Outdated
+                      graphical interface </a></li>
+                  <li><span class="fa fa-check"></span><a href="#">Fulfills its
+                      purpose</a></li>
+                  <li><span class="fa fa-check"></span><a href="#">Potential for
+                      improvement</a></li>
+                </ul>
+                <a target="_blank" href="https://www.facebook.com/appadvisor.nl/"
+                  class="button">Agree?
+                  Visit our Facebook!</a> </section>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- Footer -->
+      <div id="footer">
+        <div class="container">
+          <div class="row">
+            <div class="3u">
+              <section id="box1">
+                <header>
+                  <h2>Nulla facilisi</h2>
+                </header>
+                <ul class="style3">
+                  <li class="first">
+                    <p class="date"><a href="#">10.03.2012</a></p>
+                    <p><a href="#">Vestibulum sem magna, elementum ut,
+                        vestibulum facilisis. Nulla facilisi. Cum sociis natoque
+                        penatibus.</a></p>
+                  </li>
+                  <li>
+                    <p class="date"><a href="#">10.03.2012</a></p>
+                    <p><a href="#">Pellentesque erat erat, tincidunt in,
+                        eleifend, malesuada bibendum. Suspendisse sit amet in
+                        eros bibendum condimentum. </a> </p>
+                  </li>
+                </ul>
+              </section>
+            </div>
+            <div class="6u">
+              <section id="box2">
+                <header>
+                  <h2>Who am i?</h2>
+                </header>
+                <div> <a href="#" class="image full"><img src="images/pics02.jpg"
+                      alt=""></a>
+                </div>
+                <p>Nulla enim eros, porttitor eu, tempus id, varius non, nibh.
+                  Duis enim nulla, luctus eu, dapibus lacinia, venenatis id,
+                  quam. Vestibulum imperdiet, magna nec eleifend rutrum, nunc
+                  lectus vestibulum velit, euismod lacinia quam nisl id lorem.
+                  Quisque erat. Vestibulum pellentesque, justo mollis pretium
+                  suscipit, justo nulla blandit libero, in blandit augue justo
+                  quis nisl.</p>
+              </section>
+            </div>
+            <div class="3u">
+              <section id="box3">
+                <header>
+                  <h2>My Interests</h2>
+                </header>
+                <ul class="style1">
+                  <li class="first"><a href="#">Pellentesque quis elit non
+                      lectus eleifend purus condimentum.</a></li>
+                  <li><a href="#">Lorem ipsum dolort, consectetuer adipiscing
+                      dictum metus sapien.</a></li>
+                  <li><a href="#">Phasellus nec dictum metus in sapien
+                      pellentesque congue.</a></li>
+                  <li><a href="#">Cras vitae metus aliquam risus dictum metus in
+                      sapien pharetra.</a></li>
+                  <li><a href="#">Duis non dictum metus in sapien ante in metus
+                      commodo euismod lobortis.</a></li>
+                </ul>
+              </section>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- Copyright -->
+      <div id="copyright">
+        <div class="container"> Design: <a href="http://templated.co">TEMPLATED</a>
+          Images: <a href="http://unsplash.com">Unsplash</a> (<a href="http://unsplash.com/cc0">CC0</a>)
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
